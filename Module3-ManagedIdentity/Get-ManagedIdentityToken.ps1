@@ -161,5 +161,5 @@ Write-Host ""
 
 # Audit tenant for existing Managed Identities
 Write-Host "--- Auditing Tenant Managed Identities ---" -ForegroundColor Cyan
-Connect-MgGraph -Scopes "Application.Read.All" -TenantId "25de3db3-c870-4699-be4e-bc4322e9d249"
+Connect-MgGraph -Scopes "Application.Read.All" -TenantId "YOUR-TENANT-ID-HERE"
 Get-ManagedIdentityInventory
