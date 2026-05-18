@@ -16,3 +16,7 @@ config.local.ps1
 # PowerShell temp
 *.ps1xml
 "@ | Set-Content .gitignore
+
+echo "*.log" >> .gitignore
+echo "logs/*.log" >> .gitignore
+echo "*.csv" >> .gitignore

@@ -1,2 +1,0 @@
-"DisplayName","AppId","ObjectId","CreatedDate","AgeInDays","CredentialType","CredentialRisk","ExpiredCredentials","ExpiringCredentials","HasOwner","Owners","PermissionRisk","HighRiskPermissions","IsGDPRDataProcessor","GDPRPermissions","AllPermissions"
-"NHI-Portfolio-App-01","3c95a2a5-7f63-42b6-b44b-094b64b58314","39f950fb-10b8-497c-9161-69461f633031","2026-05-14","3","Certificate","LOW","","","True","sdiez@proyectoiam.onmicrosoft.com","HIGH","Group.Read.All (MEDIUM) | User.Read.All (HIGH)","True","User.Read.All","Group.Read.All | User.Read.All"
